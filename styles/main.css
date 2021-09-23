@@ -1,0 +1,304 @@
+*{
+	/* padding and margin set */
+	margin:0;
+	padding:0;
+}
+
+header,footer,
+article,section,
+hgroup,nav,
+figure{
+	display:block;
+}
+
+body{
+	/* Setting the default text color, size, page background and font */
+	font-size:0.825em;
+	color:#fcfcfc;
+	background-color:#314499;
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+
+	background-image: url(../images/background1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+/* 3 tier nav menu styles */
+ul#navMenu {
+	padding:0px 5px;
+	margin:0px;
+	width:100%;
+	list-style:none;
+	position: relative;
+	left: 0;
+	bottom: 0;
+	padding-bottom: 5px;
+
+
+}
+	
+	ul#navMenu ul {
+	position:absolute;
+	left:0;
+	top:100%;
+	display:none;
+	padding:0px;
+	margin:0px
+
+}
+	
+	ul#navMenu li {
+	display:inline;
+	float:left;
+	position:relative
+
+}
+	
+	ul#navMenu a {
+	text-decoration:none;
+	padding:10px 0px;
+	width:309px;
+	background:#666666;
+	color:#ffffff;
+	float:left;
+	text-align:center;
+	border:1px solid #ffffff;
+
+}
+	
+	ul#navMenu a:hover {
+	background:#cccccc;
+	color:#333333
+
+}
+
+ul#navMenu li:hover ul {
+	display:block;
+
+}
+	
+	ul#navMenu ul a {
+	width:150px;
+
+}
+	
+	ul#navMenu ul li {
+	display:block;
+	margin:0px
+
+}
+
+ul#navMenu li:hover ul {
+	display:block;
+
+}
+	
+	ul#navMenu ul a {
+	width:309px;
+
+}
+	
+	ul#navMenu ul li {
+	display:block;
+	margin:0px
+
+}
+
+ul#navMenu ul ul {
+	top:0;left:100%;
+	}
+	
+	ul#navMenu li:hover ul ul {
+	display:none;
+	}
+	
+	ul#navMenu ul li:hover ul {
+	display:block;
+	}
+
+
+
+/* Headings: */
+header{
+	padding: 2px;
+	text-align: center;
+	width: 100%;
+}
+
+h1,h2,h3{
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+	text-shadow:0 2px 2px black;
+}
+
+h1{
+	font-size:3em;
+	padding:0.5em 0 0;
+	text-transform:uppercase;
+	color: #ffffff;
+
+}
+
+h3{
+	/* The slogan text */
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+	font-size:2em;
+	font-weight:normal;
+	margin:0 0 1em;
+	color: #ffffff;
+	
+}
+
+h2{
+	font-size:2.2em;
+	font-weight:normal;
+	letter-spacing:0.01em;
+	text-transform:uppercase;
+}
+
+/* page style */
+#page{
+	width:1260px;
+	margin:0 auto;
+    position:relative;
+	background-color:#4d4d4da2;
+	
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+}
+
+/* Top area columns */
+.topcolumnl{
+	width: 20%;
+}
+.topcolumnl img{
+	width: 20%;
+}
+
+.topcolumnc{
+	width: 80%;
+	text-align: center;
+}
+
+.topcolumnr{
+	width: 20%;
+}
+.topcolumnr img{
+	width: auto;
+}
+
+
+
+/* Main content Column Styles: */
+.row{
+	display: table;
+	width: 100%;
+	padding-top: 10px;
+}
+.columnleft {
+	text-align: center;
+	padding: 15px;
+    display: table-cell;
+    width: 15%;
+    border-top: #00000050 solid;
+    border-width: 1px;
+    border-right: #00000050 solid;
+    border-bottom: #00000050 solid;
+    -moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+
+}
+
+.columnleft img{
+	padding-top: 7px;
+	
+}
+.columnleft p{
+	padding-bottom: 10px;
+}
+.columncenter {
+	padding: 10px;
+    display: table-cell;
+    width: 60%;
+
+
+}
+
+.columncenter h2{
+	font-weight:normal;
+	margin:0 0 0.25em;
+	color: #ffffff;
+
+}
+
+.columncenter p{
+	margin-top: -12px;
+	font-size: 110%;
+	padding: 0 5px;
+	margin-bottom: 5px;
+}
+
+.columncenter .maintext p{
+	margin-top: 10px;
+	padding: 0 5px;
+	margin-bottom: 10px;
+
+}
+
+.columnright {
+	padding: 15px;
+    display: table-cell;
+    width: 25%;
+    border-top: #00000050 solid;
+    border-width: 1px;
+    border-left: #00000050 solid;
+    border-bottom: #00000050 solid;
+    -moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+    
+}
+
+.columnright a{
+	text-align: center;
+	font-size: 1.5em;
+	padding: 5px 0;
+}
+
+.columnright .line{
+	width: auto;
+	border-top: #33333380 solid;
+	margin-top: 5px;
+	padding-top: 10px;
+
+}
+
+.columnright h2 {
+	text-align: center;
+}
+
+.line{
+	width: auto;
+	border-top: #33333380 solid;
+
+}
+
+
+
+/* Footer styles */
+footer{
+	clear: both;
+	margin-bottom:30px;
+	text-align:center;
+	font-size:0.825em;
+	padding-bottom: 15px;
+
+}
+footer p{
+	margin-bottom:-2.5em;
+	position:relative;
+
+}
