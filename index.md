@@ -15,9 +15,6 @@
   <section id="page">
       <header>
           <div style="overflow: hidden;">
-              <div id="A" style="float:left; width: 50%;  margin-left: -225px; padding-top: 10px;">
-                  <img src="images/esdeath.PNG" width="150">
-              </div>
               <div id="B" style="float: left; width: 50%; margin-left: -100px;">
                   <div>
                       <hgroup>
