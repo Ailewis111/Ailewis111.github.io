@@ -15,14 +15,12 @@
   <section id="page">
       <header>
           <div style="overflow: hidden;">
-              <div id="B" style="float: center; width: 50%;>
                   <div>
                       <hgroup>
                           <h1>Lewis' Programming Portfolio</h1>
                           <h3>"Live By The Code, Die By The Code" -Sun Tzu </h3>
                       </hgroup>
                   </div>
-              </div>
           </div>
       </header>
 
