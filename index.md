@@ -18,57 +18,12 @@
               <div id="B" style="float: left; width: 50%; margin-left: -100px;">
                   <div>
                       <hgroup>
-                          <h1>Top Anime Waifus</h1>
-                          <h3>"Without My Waifu, I Have No Laifu" -Anonymous </h3>
+                          <h1>Lewis' Programming Portfolio</h1>
+                          <h3>"Live By The Code, Die By The Code" -Sun Tzu </h3>
                       </hgroup>
                   </div>
               </div>
           </div>
-
-          <ul id="navMenu">
-              <li><a href="index.html">Home</a></li>
-              <li><a href="#">Waifus</a>
-                  <ul>
-                      <li><a href="pages/image.html">The Best</a></li>
-                      <li><a href="#">Azur Lane</a>
-                          <ul>
-                              <li><a href="pages/underC.html">Atago</a></li>
-                              <li><a href="pages/underC.html">Prinz Eugen</a></li>
-                              <li><a href="pages/underC.html">Takao</a></li>
-                          </ul>
-                      </li>
-                      <li><a href="#">Konosuba</a>
-                          <ul>
-                              <li><a href="pages/underC.html">Darkness</a></li>
-                              <li><a href="pages/underC.html">Megumin</a></li>
-                              <li><a href="pages/underC.html">Aqua</a></li>
-                          </ul>
-                      </li>
-              </li>
-              <li><a href="#">Fairytail</a>
-                  <ul>
-                      <li><a href="pages/underC.html">Lucy</a></li>
-                      <li><a href="pages/underC.html">Mirajane</a></li>
-                      <li><a href="pages/underC.html">Erza</a></li>
-                  </ul>
-              </li>
-              </li>
-          </ul>
-          </li>
-          <li><a href="#">Waifu Stats</a>
-              <ul>
-                  <li><a href="pages/underC.html">The Best</a></li>
-                  <li><a href="#">Azur Lane</a>
-                      <ul>
-                          <li><a href="pages/table.html">Atago</a></li>
-                          <li><a href="pages/underC.html">Prinz Eugen</a></li>
-                          <li><a href="pages/underC.html">Takao</a></li>
-                      </ul>
-                  </li>
-              </ul>
-          </li>
-          <li><a href="#">Extra</a></li>
-          </ul>
       </header>
 
       <main>
