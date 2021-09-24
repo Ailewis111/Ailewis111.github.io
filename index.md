@@ -15,7 +15,7 @@
   <section id="page">
       <header>
           <div style="overflow: hidden;">
-              <div id="B" style="float: left; width: 50%; margin-left: -100px;">
+              <div id="B" style="float: center; width: 50%;>
                   <div>
                       <hgroup>
                           <h1>Lewis' Programming Portfolio</h1>
