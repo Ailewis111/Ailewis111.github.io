@@ -25,101 +25,6 @@ body{
 	background-attachment: fixed;
 }
 
-/* 3 tier nav menu styles */
-ul#navMenu {
-	padding:0px 5px;
-	margin:0px;
-	width:100%;
-	list-style:none;
-	position: relative;
-	left: 0;
-	bottom: 0;
-	padding-bottom: 5px;
-
-
-}
-	
-	ul#navMenu ul {
-	position:absolute;
-	left:0;
-	top:100%;
-	display:none;
-	padding:0px;
-	margin:0px
-
-}
-	
-	ul#navMenu li {
-	display:inline;
-	float:left;
-	position:relative
-
-}
-	
-	ul#navMenu a {
-	text-decoration:none;
-	padding:10px 0px;
-	width:309px;
-	background:#666666;
-	color:#ffffff;
-	float:left;
-	text-align:center;
-	border:1px solid #ffffff;
-
-}
-	
-	ul#navMenu a:hover {
-	background:#cccccc;
-	color:#333333
-
-}
-
-ul#navMenu li:hover ul {
-	display:block;
-
-}
-	
-	ul#navMenu ul a {
-	width:150px;
-
-}
-	
-	ul#navMenu ul li {
-	display:block;
-	margin:0px
-
-}
-
-ul#navMenu li:hover ul {
-	display:block;
-
-}
-	
-	ul#navMenu ul a {
-	width:309px;
-
-}
-	
-	ul#navMenu ul li {
-	display:block;
-	margin:0px
-
-}
-
-ul#navMenu ul ul {
-	top:0;left:100%;
-	}
-	
-	ul#navMenu li:hover ul ul {
-	display:none;
-	}
-	
-	ul#navMenu ul li:hover ul {
-	display:block;
-	}
-
-
-
 /* Headings: */
 header{
 	padding: 2px;
@@ -147,7 +52,7 @@ h3{
 	font-weight:normal;
 	margin:0 0 1em;
 	color: #ffffff;
-	
+
 }
 
 h2{
@@ -163,7 +68,7 @@ h2{
 	margin:0 auto;
     position:relative;
 	background-color:#4d4d4da2;
-	
+
 	-moz-border-radius:10px;
 	-webkit-border-radius:10px;
 	border-radius:10px;
@@ -201,7 +106,7 @@ h2{
 	text-align: center;
 	padding: 15px;
     display: table-cell;
-    width: 15%;
+    width: 20%;
     border-top: #00000050 solid;
     border-width: 1px;
     border-right: #00000050 solid;
@@ -214,7 +119,7 @@ h2{
 
 .columnleft img{
 	padding-top: 7px;
-	
+
 }
 .columnleft p{
 	padding-bottom: 10px;
@@ -222,7 +127,7 @@ h2{
 .columncenter {
 	padding: 10px;
     display: table-cell;
-    width: 60%;
+    width: 80%;
 
 
 }
@@ -246,38 +151,6 @@ h2{
 	padding: 0 5px;
 	margin-bottom: 10px;
 
-}
-
-.columnright {
-	padding: 15px;
-    display: table-cell;
-    width: 25%;
-    border-top: #00000050 solid;
-    border-width: 1px;
-    border-left: #00000050 solid;
-    border-bottom: #00000050 solid;
-    -moz-border-radius:10px;
-	-webkit-border-radius:10px;
-	border-radius:10px;
-    
-}
-
-.columnright a{
-	text-align: center;
-	font-size: 1.5em;
-	padding: 5px 0;
-}
-
-.columnright .line{
-	width: auto;
-	border-top: #33333380 solid;
-	margin-top: 5px;
-	padding-top: 10px;
-
-}
-
-.columnright h2 {
-	text-align: center;
 }
 
 .line{

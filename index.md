@@ -34,34 +34,8 @@
                   </a>
 
                   <div class="line"></div>
-
-                  <a href="pages/image.html">
-                      <img src="images/esdeath.png" alt="Esdeath" width="95px" height="95px">
-                      <p>The Best</p>
-                  </a>
-
-                  <div class="line"></div>
-
-                  <a href="pages/table.html">
-                      <img src="images/azurlane.png" alt="Azur Lane" width="95px" height="95px">
-                      <p>Azur Lane</p>
-                  </a>
-
-                  <div class="line"></div>
-
-                  <a href="pages/underC.html">
-                      <img src="images/konosuba.png" alt="Konosuba" width="95px" height="95px">
-                      <p>Konosuba</p>
-                  </a>
-
-                  <div class="line"></div>
-
-                  <a href="pages/underC.html">
-                      <img src="images/fairytail.png" alt="Fairytail" width="95px" height="95px">
-                      <p>Fairytail</p>
-                  </a>
-
               </div>
+
               <div class="columncenter">
 
                   <h2><u>Welcome To My Top Anime Waifus</u></h2>
@@ -83,19 +57,6 @@
                   </div>
 
               </div>
-              <div class="columnright">
-                  <h2>Similar Websites</h2>
-                  <a href="https://mywaifulist.moe/popular">
-                      <p>Waifu list website</p>
-                  </a>
-                  <div class="line"></div>
-                  <p>Fun fact: I wasn't sure if this would be the best idea for a school project, but couldn't really
-                      think of anything else i was motivated to do.. so here we are...
-                      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                  <p>Sneaky Text</p>
-
-                  </p>
-              </div>
           </div>
       </main>
 
@@ -111,6 +72,4 @@
 </body>
 
 
-
-    </body>
 </html>
